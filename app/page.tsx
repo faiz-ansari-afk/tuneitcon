@@ -511,7 +511,7 @@ export default function Home() {
                       <Globe className="h-5 w-5 text-primary mt-0.5" />
                       <div>
                         <h4 className="font-medium">Website</h4>
-                        <p className="text-muted-foreground">www.tuneicon.com</p>
+                        <p className="text-muted-foreground">www.tuneitcon.com</p>
                       </div>
                     </div>
                   </div>
