@@ -529,7 +529,7 @@ export default function Home() {
             <div className="h-10 w-32">
               <Image src="/logo.png" alt="Tune IT Con Logo" width={128} height={40} className="h-full w-auto" />
             </div>
-            <p className="text-sm text-muted-foreground">© 2024 Tune ITCon Ltd. All rights reserved.</p>
+            <p className="text-sm text-muted-foreground">© {new Date().getFullYear()} Tune ITCon Ltd. All rights reserved.</p>
           </div>
           <nav className="flex gap-4 sm:gap-6">
             <a
